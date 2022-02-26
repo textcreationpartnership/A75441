@@ -1,0 +1,161 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An answer to the petition sent from the Vniversitie of Oxford to the honourable court of Parliament.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75441</idno>
+            <idno type="STC">Wing A3430</idno>
+            <idno type="STC">Thomason E160_10</idno>
+            <idno type="STC">ESTC R22196</idno>
+            <idno type="EEBO-CITATION">99871651</idno>
+            <idno type="PROQUEST">99871651</idno>
+            <idno type="VID">156915</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75441)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156915)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 28:E160[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An answer to the petition sent from the Vniversitie of Oxford to the honourable court of Parliament.</title>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the yeare 1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A reply to: University of Oxford.  To the high and honourable court of Parliament, the humble petition of the University of Oxford, in behalfe of episcopacy and cathedrals.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>University of Oxford. --  To the high and honourable court of Parliament, the humble petition of the University of Oxford, in behalfe of episcopacy and cathedrals --  Controversial literature --  Early works to 1800.</term>
+               <term>University of Oxford --  History, (17th century) --  Early works to 1800.</term>
+               <term>Episcopacy --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156915:1"/>
+            <!-- PDF PAGE 20 -->
+            <pb facs="tcp:156915:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 20 -->
+            <p>AN ANSWER TO THE PETITION Sent from the Vniverſitie of OXFORD to the Honourable Court of PARLIAMENT.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the yeare 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156915:2"/>
+            <!-- PDF PAGE 21 -->
+            <pb n="3" facs="tcp:156915:2"/>
+            <!-- PDF PAGE 21 -->
+            <head>AN ANSVVER TO THE PETITION Sent from the Vniverſitie of OXFORD to the Honourable <hi>Court of</hi> PARLIAMENT.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He great Petition or rather that which beareth ſo great a name, as comming from the Univerſitie of <hi>Oxford</hi> to uphold a greater which is Epiſcopacy; finding it to be ſo little worth, and to ſo little pur<g ref="char:EOLhyphen"/>poſe (as it is by the judgement of all that have judgement) as I ſhould have thought to have come from the hands of ſome under Graduate, who had been tutored in ſome Popiſh way, had I not ſeene the <hi>Humble Petition of the <g ref="char:V">Ʋ</g>niverſitie of Oxford</hi> Printed in great Letters; for although they have propoſed ſome thing, they have proved nothing, unleſſeit be charitie to themſelves and their ſuc<g ref="char:EOLhyphen"/>ceſſours. For though their dutie towards God and the Nation be much, yet how it hath been perfor<g ref="char:EOLhyphen"/>med,
+<pb n="4" facs="tcp:156915:3"/>
+               <!-- PDF PAGE 22 -->let others judge, they are not like to have ſo much as an ordinary intereſt in the reſolution of their owne caſes: all their Authors have not made them wiſe enough to prove the ſucceſſion of dio<g ref="char:EOLhyphen"/>ceſan Biſhops from the Apoſtles: nor dare they ſpeak any thing without booke; they would faine live merrily, and feed upon the fat, and drinke the ſweet, like lazy drones which rob the labouring Bees; &amp; no goverme<g ref="char:cmbAbbrStroke">̄</g>nt will admit of it but that w<hi rend="sup">ch</hi> is co<g ref="char:cmbAbbrStroke">̄</g>trary to all goverme<g ref="char:cmbAbbrStroke">̄</g>t, the tyra<g ref="char:cmbAbbrStroke">̄</g>nical goverme<g ref="char:cmbAbbrStroke">̄</g>t of Biſhops, that they have bin the running plague<g ref="char:EOLhyphen"/>ſore of this Nation, is evident by their practiſes, there are Books out to prove their deſcent from Antichriſt cleare enough; but none to prove them from the Apoſtles, or to be <hi>jure divino,</hi> but what either are or deſerve to be hiſt at; nor is there any Petition put up for them, but what may claime kindred with yours, for arguments and ſucceſſe; the cauſe is not put to the arbitriment of mad men, (as you ſtiled them in your Letter ſent to the Pope of <hi>Lambeth,</hi> dated the ninth of <hi>November</hi> 1640.) where you call him a Judge of Religion, and ſtyle your ſelves the devout worſhipper of his holines: which Letter was written in Latine by a learned Papiſt in loftie language, being an anſwer to his ſent to you but three dayes before, fearing yet the villifying the honourable Court of Parliament, but as wiſe men are your judges, as you would ſeeme to be. Now your Pope hath betrayed himſelfe, that would have betrayed the Citie of <hi>Oxford</hi> when he made you Lords over them that live in it, and the whole Kingdome ſuffered by his holines, but now he muſt ſuffer for his unholines, and there
+<pb n="5" facs="tcp:156915:3"/>
+               <!-- PDF PAGE 22 -->is a diminution of the order already, and the man muſt follow: but thoſe pious commanding Do<g ref="char:EOLhyphen"/>ctors, with their Proctors, are now become hum<g ref="char:EOLhyphen"/>ble ſuitors to them which they hated, ſince they are Parliament converts, there is more change wrought amongſt them ſince the third of <hi>Novem<g ref="char:EOLhyphen"/>ber</hi> laſt by the Parliament, than thirtie yeares prea<g ref="char:EOLhyphen"/>ching could worke; for the ſtill voice would not move them, and the voyce of thunder ſtirred their malice, that the word could not be entertained: the Cathedralls are built (they ſay) upon pious foundations; I thought holines had not layne ſo low, nor did I thinke it had been placed in ſtones; but there is more pietie in the glaſſe windowes, and in your Altars you ſuppoſe, but now your Al<g ref="char:EOLhyphen"/>tars are altered, I beleeve there is no other holines in them than ſuch as his Holines caſt upon Saint <hi>Johns</hi> Colledge and Saint <hi>Pauls,</hi> which was ſo much in that kinde that he left himſelfe none at all; He laid the foundations in ſinne, which is con<g ref="char:EOLhyphen"/>trary to holines, he tooke bribes to turne a cauſe oftentimes, and large ones too: of all which he will ſpare ſome thing for the holy place: ſo many that built the Cathedralls, were merit-mongers, and their ends were Popiſh, and ſo have they been imployed for the moſt part, for they have Deanes and Prebends, who devoure the revenews, that have no paſtorall charge, and for the moſt part they are as uncleane as the Monkes and Fryars were for whom they were built. And for the ſinging men, they doe no good, but fill up roomes, and feed up<g ref="char:EOLhyphen"/>on the prey. Was ever any man converted ſo, or built up in the faith by any of them, produce but
+<pb n="6" facs="tcp:156915:4"/>
+               <!-- PDF PAGE 23 -->one man, and take the revenews for your labour, but if you cannot, be contented to leave your three foure five hundred or a thouſand pounds a yeare, with which you doe nothing that good is, and be contented with an hundred pounds a yeare, and preach the Goſpell, and let your betters ſhare with you. That they were firſt dedicated to Idolls or I<g ref="char:EOLhyphen"/>dolatry, which they call S<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ints, and the honour and ſervice of God, is the leaſt <gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng conſiderable a<g ref="char:EOLhyphen"/>mongſt them, and ſeeing they nurſe ſuperſtition, although they have been up <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>olden by the former Lawes of the Land, yet ſeeing more light is ſprung up amongſt us, let them, by better Laws, with their meanes to them, be ordered for better uſes, if that be a motive to make Schollers ſtudy, that they may live without ſtudy. I cannot conceive but it is the way to make them hypocrites: but ſure this ar<g ref="char:EOLhyphen"/>gument dropt from a Civill Lawyer and not from a Divine, and ſo let them fall together: ſome deepe Schollers that will dive into the bottomleſſe pit for preferment, and light their torches at Hell fire to finde the way to greatneſſe, may expect a reward in ſuch places as is fitteſt for them, or a Ieſuite or a Seminary Prieſt may deſire it in regard it did for<g ref="char:EOLhyphen"/>merly belong to their tribe, and in reſpect of the af<g ref="char:EOLhyphen"/>finitie ſuch places have with their Monaſteries, but I cannot find that every any Scholler that was emi<g ref="char:EOLhyphen"/>nent did ever deſire or accept of ſuch Monaſtick preferment, except he were notorious for ſome fact, and foule in his practiſe as as well eminent for his learning or naturall parts; nor was there ever any godly man produced or nouriſhed by them, for it is impoſſible any good can ſpring out of evill,
+<pb n="7" facs="tcp:156915:4"/>
+               <!-- PDF PAGE 23 -->becauſe every thing doth produce its like, nor can it worke beyond nor above its owne ſphere; light cannot ſpring out of darkneſſe, but by a command from heaven; and then light makes warre with darkneſſe, and admits of no agreement; ſo godly men ſcorne to receive the meanes of their liveli<g ref="char:EOLhyphen"/>hood in a ſuperſtitious way, as to draw their nou<g ref="char:EOLhyphen"/>riſhment from the breſt of an Idoll. You begin to call them adverſaries of the Church of Rome, but I know you will call their Church the whore of Babylon, and maintaine their doctrine to be onely Antichriſtian, by that time the Parliament hath ſate nine moneths long. As for the portions that they doe afford to younger brothers of good pa<g ref="char:EOLhyphen"/>rentage, I know you meane by goodneſſe, great<g ref="char:EOLhyphen"/>neſſe: it is a ſhrewd miſtake in ſuch an aſſembly as was preſent at the making of this Petition, for goodneſſe without greatneſſe is ſlighted if not ha<g ref="char:EOLhyphen"/>ted amongſt many of you that are younger bro<g ref="char:EOLhyphen"/>thers indeed, if being devoted to the Miniſtery of the Goſpell, they deſerve not reſpect for their works ſake, to be preferred and honoured as Mini<g ref="char:EOLhyphen"/>ſters in a paſtorall charge, and not to cloyſter them<g ref="char:EOLhyphen"/>ſelves up, as unfit to labour in the Lords Vineyard: and all are younger brothers that doubt of the truth of it. The Officers and Miniſters that depend upon them, are but Penſioners to thoſe Prieſts that are maintained in the Cells, they muſt be all confor<g ref="char:EOLhyphen"/>mable, not onely to their ſuperſtition, but their hu<g ref="char:EOLhyphen"/>mours: could they not be better maintained if the revenews were ſhared amongſt them? but this is their Prieſtly State to have their vaſſals to waite upon them, and to eate their ſcrapes which would
+<pb n="8" facs="tcp:156915:5"/>
+               <!-- PDF PAGE 24 -->otherwiſe fall to the dogs. Oh I but heres our great works; Free-Schools and Hoſpitals are upheld by them; I confeſſe, ſome thing is done that way by ſome of them, partly being injoyned, partly for cu<g ref="char:EOLhyphen"/>ſtome, and partly for vain-glory; but free Schools would be free indeed, if halfe thoſe rents were gi<g ref="char:EOLhyphen"/>ven to that end, and Hoſpitalls might be better maintained, or poverty prevented, if the other halfe were beſtowed to that purpoſe, but they will be Scavingers to mend high wayes and bridges. I wonder what Authours they have to prove theſe to be pious works, which the Carters can doe bet<g ref="char:EOLhyphen"/>ter than they, but they have their ends if they are at any coſt that way, either for comming to their houſes, or for to gaine applauſe for doing that which they and others are bound to doe. I ſee now they doe not confine holines to the Church, nor to things belonging thereunto, ſeeing they bring it over bridges into the high wayes; as for being cau<g ref="char:EOLhyphen"/>ſes of much profit to thoſe Cities where they are ſituate, in relieving the poore; a poore pittance the poore have of them. It would be a great helpe to the Cities, if the meanes ſave what would main<g ref="char:EOLhyphen"/>taine two godly Miniſters were beſtowed upon thoſe Cities to maintaine the poore in worke that are able to worke, and to keepe thoſe that are not; nor doe I conceive that any ſtrangers doe come on purpoſe to viſite the Ornaments, unleſſe they be ſome ſuperſtitious Pilgrimes, ſuch as did uſe to vi<g ref="char:EOLhyphen"/>ſit <hi>Thomas Beckets</hi> Tombe, and ſuch hinder the Ci<g ref="char:EOLhyphen"/>tie, and not helpe it, becauſe they goe a begging, then ſurely the Citie hath no more dealing with Chapmen, then if the Cathedrall and all that be<g ref="char:EOLhyphen"/>long
+<pb n="9" facs="tcp:156915:5"/>
+               <!-- PDF PAGE 24 -->to it were at Rome: well, pietie commeth a<g ref="char:EOLhyphen"/>gaine, nay, monuments of pietie, I am ſure the wic<g ref="char:EOLhyphen"/>kedeſt wretch that is may doe good, <hi>Bonum ſed non bone,</hi> they may beſtow their eſtates to ſuch purpoſes when they can keepe them no longer, eſpecially if they thinke to merit Heaven by that meanes, which they would not labour for before. We know many of them were great Oppreſſors, Uſurers, Popiſh Biſhops, Cardinalls, amongſt the reſt, the Cardinall <hi>Wolſey,</hi> which was a proud tray<g ref="char:EOLhyphen"/>terous wretch, yet muſt theſe build monuments of their pietie? they have built faire houſes, w<hi rend="sup">ch</hi> might be uſefull if they were better imployed: for as they are now, they are not the honour of this Kingdome in the ſight of forraine Nations, but its diſgrace: I had thought they had not been all Churchmen that were maintain'd here, ſpoken of before, becauſe they were multitudes and whole families, but now I finde many thouſands of the laitie, who enjoyed faire eſtates from them; and in a free way too: I perceive the firſt were all devoted to the Church, I dare not queſtion it as a repetition in their Petiti<g ref="char:EOLhyphen"/>on, nor as tautologies, being three motives betwixt the one and the other. It is as well done as the Ar<g ref="char:EOLhyphen"/>ticles of the Synod were laſt yeare, to eſtabliſh the Church, but that it is not ſtuft ſo full of Antiqui<g ref="char:EOLhyphen"/>ties: they would ſteere all, and have all our liber<g ref="char:EOLhyphen"/>ties and livelihoods come from them, but they were ſuch ill Pilotes, that they are like to be put out of office, and wiſer men ſet at the ſterne. And let all men judge whether they adde to the crowne or take from it, and whether thoſe fat Livings did not or doe not properly belong to it, and whether
+<pb n="10" facs="tcp:156915:6"/>
+               <!-- PDF PAGE 25 -->they have thoſe things by deſert, or whether by their preaching, that all is the Kings right, he may not firſt challenge thoſe revenews of them in part. As for thoſe that are learned profeſſors there, they may have maintenance allowd when thoſe Prio<g ref="char:EOLhyphen"/>ries are aboliſhed, but they are ſo accuſtomed to i<g ref="char:EOLhyphen"/>dleneſſe, that their learning goeth not out of their Colledges, there they ſtay themſelves; if they are ſent to a Benefice abroad, they can preach but ſel<g ref="char:EOLhyphen"/>dome; for they have not been uſed to it, and now they cannot learne: then they will give ten pounds a yeare for a journey-man to reade ſervice, and to talke once a fortnight to the people, of what dead men ſpoke before, which will ſerve their turne, if he can mix a little Latine amongſt it, but then he muſt not hold them too long; he will preach three times a yeare himſelfe, if his meanes will make good, a hundred pounds a Sermon, or elſe he ſcornes to preach ſo often: the ſelling of Fellow<g ref="char:EOLhyphen"/>ſhips will helpe the Maſters that remaines there, but that was not the Founders intent. The ſub<g ref="char:EOLhyphen"/>verſion of thoſe Abeyes from their corrupt abuſes, and converting them to good uſes, will be attended with honourable conſequences, nor will it bring reproach to any but to thoſe that are Popiſhly af<g ref="char:EOLhyphen"/>fected: ſome harder conditions it may to drones, becauſe none will be in requeſt, but preaching Mi<g ref="char:EOLhyphen"/>niſters: the laitie will be eaſed, nor can you have more contempt than what your pride and fulneſſe have brought upon you; and under the correction of any wiſe men, except your ſelves, it will encou<g ref="char:EOLhyphen"/>rage Schollars to be induſtrious, that when they ex<g ref="char:EOLhyphen"/>cell, they ſhall not only be placed, where they ſhall
+<pb n="11" facs="tcp:156915:6"/>
+               <!-- PDF PAGE 25 -->have ſufficient maintenance, but honour among the beſt of men. And thoſe that foreſee this, will not deſire to have it remedied. I thinke ſuch conſide<g ref="char:EOLhyphen"/>rations as yours will not move any unleſſe it be to laughter, or to mourne againſt your cauſe the more from your own arguments, how are you changed? you call that Aſſembly honourable and ſay, they have great wiſdome, whom you ſtyle mad-men in your Letter to <hi>Laud,</hi> November the ninth, that pious jeere of that great Aſſembly is knowne to promote Religion in a ſpirituall manner, not ſo much houſes, which you call religious, after the Popiſh cuſtome, but the revenews is that you ſticke moſt upon: you have made voyde the intents of the Donors, in preferring thoſe which bid moſt, whoſe friends are greateſt, and keeping poore Schollars out for whom it was intended, poore indeed. I doe beleeve God is more diſhonoured in and by ſuch places, than in moſt Alehouſes, by their confuſed bawling, they have a pretence to ſerve God, but they intend their owne bellies: the man that whips the dogs is thought common<g ref="char:EOLhyphen"/>ly to be the beſt amongſt them: thoſe Students which have outward by ends, when they begin to ſtudy, they ſeldome or never bring Gods ends a<g ref="char:EOLhyphen"/>bout, which is to convert the ſoules of men: in ſtudying themſelves they are ſtrangers to the truth: but honeſt indeavours are alwayes accompanied with bleſſings of increaſe. I did not intend to be ſeene at all in this anſwer, therefore what wants the force of an Argument, compare it with yours, and then it may paſſe. You promiſe to pray, &amp;c. What you intend by it I know not, whether it be, pray
+<pb n="12" facs="tcp:156915:7"/>
+               <!-- PDF PAGE 26 -->we, which was in faſhion of late, or for my Lords Grace, or for the breaking up of the Parliament; you may put any thing to &amp;c. But you ſeldome pray without the Service Booke, for that is an in<g ref="char:EOLhyphen"/>novation: and ſome of you have been queſtioned for innovations of late: there are none of thoſe prayers in it, but it is a wonder you had not the prayer againſt the <hi>Scots</hi> put in it, for it was coura<g ref="char:EOLhyphen"/>giouſly pen'd. I am ſo charitable as to thinke you meane to pray for the ſicke: but you would have been to ſeeke for examples, if it had not been for <hi>Peters</hi> wives mother, and the Captaines ſervant; but if the praying, &amp;c. were joyned to the preach<g ref="char:EOLhyphen"/>ing, &amp;c. they might draw both one way. Although your Petition came from the Convocation houſe, where the Doctors and Maſters were aſſembled, yet <hi>omnibus &amp; ſingulis,</hi> was too much; it would not have it to all, nor <hi>ab hominibus,</hi> from all; it would faine have ſome of you free; but I doubt your cop<g ref="char:EOLhyphen"/>py was corrected comming into ſome Lay mans hands, before it came to the Preſſe, or elſe the Printer being careleſſe, left out your ſtrongeſt Mo<g ref="char:EOLhyphen"/>tives, or weakned the ſenſe, on purpoſe to make ſome women laugh at it; if it be ſo call it in, or diſ<g ref="char:EOLhyphen"/>claime it for your act and deed, and then I will call in mine too when this impreſſion is ſold.</p>
+            <trailer>FJNJS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
